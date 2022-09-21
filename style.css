@@ -20,7 +20,7 @@ html {
 }
 
 body {
-    background: linear-gradient(rgba(12, 156, 144, 0.678), rgba(20, 20, 20, 1)), url(/img/Foto.jpg);
+    background: linear-gradient(rgba(12, 156, 144, 0.678), rgba(20, 20, 20, 1)), url(http://127.0.0.1:5500//img/Imagem.jpg);
     background-position: center center;
     background-size: cover;
     background-position-y: 0px;
