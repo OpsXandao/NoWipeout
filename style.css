@@ -20,7 +20,7 @@ html {
 }
 
 body {
-    background: linear-gradient(rgba(12, 156, 144, 0.678), rgba(20, 20, 20, 1)), url(https://images.pexels.com/photos/695779/pexels-photo-695779.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    background: linear-gradient(rgba(12, 156, 144, 0.678), rgba(20, 20, 20, 1)), url(/img/Foto.jpg);
     background-position: center center;
     background-size: cover;
     background-position-y: 0px;
